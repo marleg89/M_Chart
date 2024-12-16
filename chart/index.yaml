@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flask-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-12-16T19:04:43.220500003Z"
+    description: A Helm chart for deploying a Flask app
+    digest: ade3b430a7189c1e95bee492095d5f3ecff8e4f5d6c0e7cce14c990bb4906d5d
+    name: flask-chart
+    type: application
+    urls:
+    - https://marleg89.github.io/M_Chart/flask-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-12-16T19:04:43.219609326Z"
